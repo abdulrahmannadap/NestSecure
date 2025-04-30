@@ -1,0 +1,6 @@
+@NestSecure.ComplaintService_HostAddress = http://localhost:5244
+
+GET {{NestSecure.ComplaintService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
